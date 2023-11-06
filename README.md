@@ -16,7 +16,7 @@ Siga estas etapas para usar o scraper:
 
 3. Instale as dependências necessárias executando o seguinte comando: npm install
 
-4. Execute o scraper com o seguinte comando: node scraper.js
+4. Execute o scraper com o seguinte comando: node index.js
 
 5. O scraper iniciará e solicitará que você digite o nome do Pokémon que deseja buscar. Digite o nome do Pokémon desejado e pressione Enter.
 
